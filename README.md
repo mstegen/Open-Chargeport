@@ -37,12 +37,3 @@ As Silabs also provided a PCB layout file for 5 buttons, but only one button is 
 The PCB layout fit's the Polycase FB-20 keyfob housing.
 
 All files for this version can be found in the /Si4010 folder.
-
-Fully assembled Open Chargeport remote's are available here:
-http://www.stegen.com/ocp
-
-for USA, you can contact lolachampcar on teslamotorsclub.com
- 
-
-
-
